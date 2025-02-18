@@ -23,3 +23,4 @@
 
 ## Certifications
 - Software Development Proficiency from District Arts & Education
+- Lockheed Martin Code Quest, April 22, 2023: First Place
