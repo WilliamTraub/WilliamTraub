@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # Current Project
 - I'm currently working with a team on TerraNova - a neural network-powered solution to classifying zoning and development on brownfields. 
-# https://github.com/WilliamTraub/TerraNova
+https://github.com/WilliamTraub/TerraNova
