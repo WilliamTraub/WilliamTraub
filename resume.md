@@ -1,9 +1,9 @@
 # William Traub
 
 ## Contact Information
-- **Email:** [Personal Email](william.m.traub@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/william-traub-06093222a/)
-- **GitHub:** [GitHub Profile](https://github.com/WilliamTraub)
+- **Email:** william.m.traub@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/william-traub-06093222a/
+- **GitHub:** https://github.com/WilliamTraub
 
 ## Skills
 - **Programming Languages:** Python, JavaScript, TypeScript, Java, Racket
