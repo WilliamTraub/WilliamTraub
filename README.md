@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Current Project
-- I'm currently working with a team on TerraNova - a neural network-powered solution to classifying zoning and development on brownfields. 
-https://github.com/WilliamTraub/TerraNova
+- I'm currently in the process of creating a public repository (and hopefully a website) to share lecture notes and academic materials from my university studies. This project is currently private as I am working with my professors to preserve their intellectual property and determine exactly how and what I can share.
